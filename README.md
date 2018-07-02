@@ -16,7 +16,7 @@ local host server to view the application in the browser.
 ### Sinatra Gem
 
 This is not a lab, as there's nothing for you to submit. But to follow along
-with the lesson, make sure you fork and clone this repository before beginning. 
+with the lesson, make sure you fork and clone this repository before beginning.
 
 It's important to note that Sinatra is just a gem. It's a library of code that
 developers wrote to allow us to build light-weight web applications quickly. If
@@ -64,4 +64,4 @@ Once your server is running, visit `localhost:9292` (or whatever URL the
 in-browser Learn IDE has provided you with) in the browser to see `Hello,
 World!` displayed.
 
-<p data-visibility='hidden'>KWK-L1 Sinatra From Scratch</p>
+<p data-visibility='hidden'>KWK-L1 Sinatra From Scratch</p> 
